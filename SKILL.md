@@ -141,6 +141,5 @@ Supported platforms:
 
 ## Related
 
-- [Back to x-cmd Skill](../../SKILL.md)
 - [x-cmd lsof module](https://x-cmd.com/mod/lsof)
 - Native `lsof(8)` manual page
